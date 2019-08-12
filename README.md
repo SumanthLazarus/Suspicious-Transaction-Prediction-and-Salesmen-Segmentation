@@ -1,0 +1,2 @@
+# Suspicious-Transaction-Prediction-and-Salesmen-Segmentation
+Predicting the suspicious transactions using retail salesmen reports analysis  &amp;  Salesmen Segmentation. You are expected to classify each report ID as Yes(suspicious) / No(not suspicious) / indeterminate(doubtful).  Towards achieving this goal and for other strategic purposes, you are also required to segment the salesmen into high risk, medium risk and low/no risk categories from the standpoint of propensity to error/fraud.
